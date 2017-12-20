@@ -1,0 +1,50 @@
+
+#main{
+	margin: auto;
+	background-color: #85C1E9;
+}
+
+#map_canvas {
+	border: 2px solid #a1a1a1;
+	padding: 0px;
+  	height: 500px;
+  	width: 800px;
+  	border-radius: 25px;
+}
+
+#map_user {
+	float: right;
+	border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 350px;
+    border-radius: 25px;
+}
+
+#save_poly {
+	margin-top: 25px;
+	border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 720px;
+    border-radius: 25px;
+}
+
+#poli_name {
+	margin: auto;
+	margin-right: 15px;
+	width: 200px;
+}
+
+#Mostrar {
+	margin: auto;
+	margin-right: 15px;
+}
+
+#Guardar {
+	cursor: pointer;
+}
+
+#Mostrar {
+	cursor: pointer;
+}
